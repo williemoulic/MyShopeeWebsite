@@ -9,7 +9,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 40px;
+  padding: 35px;
   background-color: orangered;
 }
 
@@ -17,6 +17,7 @@ header {
   font-size: 34px;
   color: #fff;
   margin-left: 150px;
+  margin-top: 5px;
   margin-bottom: -65px;
 }
 
