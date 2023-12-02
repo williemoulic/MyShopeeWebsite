@@ -9,12 +9,12 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-color: #f5f5f5;
+  background-color: orangered;
 }
 
 .logo h1 {
   font-size: 24px;
-  color: #333;
+  color: #fff;
 }
 
 nav ul {
@@ -43,6 +43,7 @@ nav ul li a:hover {
   height: 200px;
   background-color: orangered;
   color: #fff;
+  margin-top: 20px;
 }
 
 .banner h2 {
