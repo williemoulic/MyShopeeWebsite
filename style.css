@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Calibri Light;
 }
 
 header {
@@ -15,6 +16,7 @@ header {
 .logo h1 {
   font-size: 24px;
   color: #fff;
+  margin-left: 30px;
 }
 
 nav ul {
