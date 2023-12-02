@@ -16,11 +16,13 @@ header {
 .logo h1 {
   font-size: 34px;
   color: #fff;
-  margin-left: 80px;
+  margin-left: 150px;
+  margin-bottom: -65px;
 }
 
 img.a {
-  vertical-align: baseline;
+  margin-left: 80px;
+  margin-bottom: 5px;
 }
 
 nav ul {
