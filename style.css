@@ -54,11 +54,10 @@ nav ul li a:hover {
   border: 1px solid #dbdbdb;
   background-color: #fafafa;
   padding: 10px 275px;
-  text-align: left;
 }
 
 .container form input:last-of-type{
-  margin-bottom: 10px;  
+  margin-bottom: 10px;
 }
 
 .banner {
