@@ -45,6 +45,27 @@ nav ul li a:hover {
   color: #fff;
 }
 
+.container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.container form, input{
+  width: inherit;
+}
+
+.container form input{
+  border: 1px solid #dbdbdb;
+  background-color: #fafafa;
+  padding: 10px 5px;
+  margin: auto;
+  text-align: center;
+}
+
+.container form input:last-of-type{
+  margin-bottom: 10px;  
+}
+
 .banner {
   display: flex;
   flex-direction: column;
