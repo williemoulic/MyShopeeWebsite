@@ -9,7 +9,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 18px;
   background-color: orangered;
 }
 
@@ -70,7 +70,7 @@ nav ul2 li a {
 }
 
 .container form{
-  margin-left: -950px;
+  margin-left: -1000px;
   margin-bottom: -150px;
 }
 .container form input{
@@ -81,7 +81,7 @@ nav ul2 li a {
 }
 
 .container form input:last-of-type{
-  margin-bottom: 2px;
+  margin-bottom: 3px;
 }
 
 .container form ul li {
@@ -95,6 +95,11 @@ nav ul2 li a {
   padding: 5px;
 }
 
+i.fas.fa-shopping-cart {
+  color: whitesmoke;
+  font-size: 24px;
+  margin-right: 10px;
+}
 .banner {
   display: flex;
   flex-direction: column;
