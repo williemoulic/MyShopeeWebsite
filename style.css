@@ -101,7 +101,12 @@ nav ul2 li a {
   font-family: Calibri Light;
 }
 
-i.fa.fa-facebook{
+i.fa.fa-facebook-official{
+  cursor: pointer;
+  color: whitesmoke;
+}
+
+i.fa.fa-instagram{
   color: whitesmoke;
   cursor: pointer;
 }
