@@ -18,7 +18,7 @@ header {
   color: #fff;
   margin-top: 40px;
   margin-left: 130px;
- margin-bottom: -125px;
+  margin-bottom: -125px;
 }
 
 img.a {
@@ -41,11 +41,6 @@ nav ul li a {
   text-decoration: none;
 }
 
-nav ul li a:hover {
-  background-color: #333;
-  color: #fff;
-}
-
 .container form{
   margin-left: -900px;
   margin-bottom: -150px;
@@ -59,6 +54,15 @@ nav ul li a:hover {
 
 .container form input:last-of-type{
   margin-bottom: 10px;
+}
+
+.container form ul li {
+  list-style: none;
+  display: inline;
+}
+.container form ul li a {
+  text-decoration: none;
+  color: white;
 }
 
 .banner {
