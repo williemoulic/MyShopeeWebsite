@@ -17,13 +17,13 @@ header {
   font-size: 34px;
   color: #fff;
   margin-top: 40px;
-  margin-left: 130px;
-  margin-bottom: -125px;
+  margin-left: 120px;
+  margin-bottom: -115px;
 }
 
 img.a {
-  margin-top: 60px;
-  margin-left: 60px;
+  margin-top: 50px;
+  margin-left: 50px;
   margin-bottom: -5px;
 }
 
@@ -31,7 +31,7 @@ nav ul {
   display: flex;
   list-style: none;
   margin-top: -60px;
-  margin-left: -250px;
+  margin-left: -200px;
 }
 
 nav ul li a {
@@ -45,7 +45,7 @@ nav ul1 {
   display: flex;
   list-style: none;
   margin-top: -20px;
-  margin-left: 500px;
+  margin-left: 520px;
 }
 
 nav ul1 li a {
@@ -70,17 +70,19 @@ nav ul2 li a {
 }
 
 .container form{
-  margin-left: -1000px;
+  margin-left: -860px;
   margin-bottom: -150px;
-}
+  }
 .container form input{
   border: 1px solid #dbdbdb;
   background-color: #fafafa;
   padding: 10px 5px;
-  width: 85%;
+  width: 95%;
+  font-size: 14px;
 }
 
 .container form input:last-of-type{
+  margin-top: -10px;
   margin-bottom: 3px;
 }
 
@@ -88,18 +90,22 @@ nav ul2 li a {
   list-style: none;
   display: inline;
 }
+
 .container form ul li a {
   text-decoration: none;
   color: white;
-  font-size: 13px;
+  font-size: 14px;
   padding: 5px;
+  font-family: Calibri Light;
 }
 
 i.fas.fa-shopping-cart {
   color: whitesmoke;
   font-size: 24px;
-  margin-right: 10px;
+  margin-right: 60px;
+  margin-top: 15px;
 }
+
 .banner {
   display: flex;
   flex-direction: column;
