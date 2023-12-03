@@ -59,7 +59,7 @@ nav ul2 {
   display: flex;
   list-style: none;
   margin-top: -20px;
-  margin-left: 790px;
+  margin-left: 770px;
 }
 
 nav ul2 li a {
@@ -73,14 +73,31 @@ nav ul2 li a {
 .container form{
   margin-left: -890px;
   margin-bottom: -150px;
+  position: relative;
   }
 
 .container form input{
+  position: relative;
   border: 1px solid #dbdbdb;
+  border-radius: 7px;
   background-color: #fafafa;
   padding: 10px 5px;
-  width: 98%;
+  width: 90%;
   font-size: 14px;
+}
+
+.search-button{
+  cursor: pointer;
+  position: absolute;
+  padding: 5px 10px;
+  color: white;
+  background-color: orangered;
+  border-color: white;
+  border-radius: 7px;
+  border-width: 5px;
+  float:inline-end;
+  right: 168px;
+  top: 55px;
 }
 
 .container form input:last-of-type{
