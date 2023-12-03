@@ -70,18 +70,18 @@ nav ul2 li a {
 }
 
 .container form{
-  margin-left: -930px;
+  margin-left: -950px;
   margin-bottom: -150px;
 }
 .container form input{
   border: 1px solid #dbdbdb;
   background-color: #fafafa;
   padding: 10px 5px;
-  width: 75%;
+  width: 85%;
 }
 
 .container form input:last-of-type{
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 .container form ul li {
