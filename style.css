@@ -45,7 +45,7 @@ nav ul1 {
   display: flex;
   list-style: none;
   margin-top: -20px;
-  margin-left: 550px;
+  margin-left: 500px;
 }
 
 nav ul1 li a {
@@ -67,12 +67,14 @@ nav ul2 li a {
   padding: 5px;
   color: white;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .container form{
   margin-left: -890px;
   margin-bottom: -150px;
   }
+
 .container form input{
   border: 1px solid #dbdbdb;
   background-color: #fafafa;
@@ -99,11 +101,32 @@ nav ul2 li a {
   font-family: Calibri Light;
 }
 
+i.fa.fa-facebook{
+  color: whitesmoke;
+  cursor: pointer;
+}
+
 i.fas.fa-shopping-cart {
   color: whitesmoke;
   font-size: 24px;
   margin-right: 70px;
   margin-top: 15px;
+  cursor: pointer;
+}
+
+i.far.fa-bell{
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+i.fa.fa-question-circle{
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+i.fas.fa-globe{
+  color: whitesmoke;
+  cursor: pointer;
 }
 
 .banner {
