@@ -30,13 +30,14 @@ img.a {
 nav ul {
   display: flex;
   list-style: none;
+  margin-top: -60px;
+  margin-left: -650px;
 }
 
 nav ul li a {
-  display: block;
+  display: inline;
   padding: 10px;
-  margin-right: 10px;
-  color: #333;
+  color: white;
   text-decoration: none;
 }
 
@@ -45,21 +46,15 @@ nav ul li a:hover {
   color: #fff;
 }
 
-.container form {
-  display: flex;
-  flex-direction: column;
+.container form{
+  margin-left: -900px;
+  margin-bottom: -150px;
 }
-
-.container form, input{
-  width: inherit;
-}
-
 .container form input{
   border: 1px solid #dbdbdb;
   background-color: #fafafa;
-  padding: 10px 5px;
-  margin: auto;
-  text-align: center;
+  padding: 10px 275px;
+  text-align: left;
 }
 
 .container form input:last-of-type{
