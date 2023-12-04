@@ -186,3 +186,18 @@ i.fas.fa-globe{
   margin-right: 200px;
   cursor: pointer;
 }
+
+.deals hr{
+  border-bottom: 1px solid orangered;
+  width: 100%;
+}
+
+.deals h1{
+  color: #8e9096;
+  margin: 10px;
+}
+
+.deals p{
+  color: #8e9096;
+  margin: 10px;
+}
