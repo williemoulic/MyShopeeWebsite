@@ -5,6 +5,7 @@
   font-family: Calibri Light;
 }
 
+/*Top Navigation bar*/
 header {
   display: flex;
   justify-content: space-between;
@@ -13,6 +14,7 @@ header {
   background-color: orangered;
 }
 
+/*shopee letter logo*/
 .logo h1 {
   font-size: 34px;
   color: #fff;
@@ -21,12 +23,14 @@ header {
   margin-bottom: -115px;
 }
 
-img.a {
+/*shopee icon logo*/
+img.shopee-icon {
   margin-top: 50px;
   margin-left: 50px;
   margin-bottom: -5px;
 }
 
+/*top nav unordered list settings*/
 nav ul {
   display: flex;
   list-style: none;
@@ -34,6 +38,7 @@ nav ul {
   margin-left: -200px;
 }
 
+/*top nav unordered list items settings, Seller Centre, Start Selling, etc*/
 nav ul li a {
   display: inline;
   padding: 10px;
@@ -41,6 +46,7 @@ nav ul li a {
   text-decoration: none;
 }
 
+/*top nav unordered list settings, Notification, Help and English */
 nav ul1 {
   display: flex;
   list-style: none;
@@ -48,6 +54,7 @@ nav ul1 {
   margin-left: 500px;
 }
 
+/*top nav unordered list items settings, Notification, Help and English */
 nav ul1 li a {
   display: inline;
   padding: 10px;
@@ -55,6 +62,7 @@ nav ul1 li a {
   text-decoration: none;
 }
 
+/*top nav unordered list settings, Sign up and Login */
 nav ul2 {
   display: flex;
   list-style: none;
@@ -62,6 +70,7 @@ nav ul2 {
   margin-left: 770px;
 }
 
+/*top nav unordered list items settings, Sign up and Login */
 nav ul2 li a {
   display: inline;
   padding: 5px;
@@ -70,12 +79,14 @@ nav ul2 li a {
   font-weight: bold;
 }
 
+/*top navigation form setting */
 .container form{
   margin-left: -890px;
   margin-bottom: -150px;
   position: relative;
   }
 
+/*top navigation form input setting */
 .container form input{
   position: relative;
   border: 1px solid #dbdbdb;
@@ -86,19 +97,6 @@ nav ul2 li a {
   font-size: 14px;
 }
 
-.search-button{
-  cursor: pointer;
-  position: absolute;
-  padding: 5px 10px;
-  color: white;
-  background-color: orangered;
-  border-color: white;
-  border-radius: 7px;
-  border-width: 5px;
-  float:inline-end;
-  right: 120px;
-  top: 54px;
-}
 
 .container form input:last-of-type{
   margin-top: -10px;
@@ -118,16 +116,34 @@ nav ul2 li a {
   font-family: Calibri Light;
 }
 
+/*search button settings */
+.search-button{
+  cursor: pointer;
+  position: absolute;
+  padding: 5px 10px;
+  color: white;
+  background-color: orangered;
+  border-color: white;
+  border-radius: 7px;
+  border-width: 5px;
+  float:inline-end;
+  right: 120px;
+  top: 54px;
+}
+
+/*facebook icon settings */
 i.fab.fa-facebook{
   cursor: pointer;
   color: whitesmoke;
 }
 
+/*instagram icon settings */
 i.fab.fa-instagram{
   color: whitesmoke;
   cursor: pointer;
 }
 
+/*shopping cart icon settings */
 i.fas.fa-shopping-cart {
   color: whitesmoke;
   font-size: 24px;
@@ -136,21 +152,25 @@ i.fas.fa-shopping-cart {
   cursor: pointer;
 }
 
+/*bell icon settings */
 i.far.fa-bell{
   color: whitesmoke;
   cursor: pointer;
 }
 
+/*question mark icon settings */
 i.fa.fa-question-circle{
   color: whitesmoke;
   cursor: pointer;
 }
 
+/*globe icon settings */
 i.fas.fa-globe{
   color: whitesmoke;
   cursor: pointer;
 }
 
+/*banner page settings */
 .banner {
   display: flex;
   flex-direction: column;
