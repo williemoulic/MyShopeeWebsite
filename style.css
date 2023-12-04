@@ -194,10 +194,12 @@ i.fas.fa-globe{
 
 .deals h1{
   color: #8e9096;
-  margin: 10px;
+  margin: 30px;
+  font-weight: bold;
 }
 
 .deals p{
   color: #8e9096;
-  margin: 10px;
+  font-size: 19px;
+  margin: 30px;
 }
