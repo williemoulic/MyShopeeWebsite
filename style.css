@@ -7,7 +7,7 @@
 
 /*Top Navigation bar*/
 header {
-  position: fixed;
+  position: fixed; /*to make nav bar sit on top*/
   top: 0;
   display: flex;
   justify-content: space-between;
@@ -21,14 +21,14 @@ header {
   font-size: 34px;
   color: #fff;
   margin-top: 40px;
-  margin-left: 120px;
+  margin-left: 110px;
   margin-bottom: -115px;
 }
 
 /*shopee icon logo*/
 img.shopee-icon {
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 40px;
   margin-bottom: -5px;
 }
 
@@ -131,7 +131,7 @@ nav ul2 li a {
   border-radius: 7px;
   border-width: 5px;
   float:inline-end;
-  right: 120px;
+  right: 110px;
   top: 54px;
 }
 
@@ -151,7 +151,7 @@ i.fab.fa-instagram{
 i.fas.fa-shopping-cart {
   color: whitesmoke;
   font-size: 24px;
-  margin-right: 70px;
+  margin-right: 60px;
   margin-top: 15px;
   cursor: pointer;
 }
