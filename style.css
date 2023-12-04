@@ -21,14 +21,14 @@ header {
   font-size: 34px;
   color: #fff;
   margin-top: 40px;
-  margin-left: 110px;
+  margin-left: 100px;
   margin-bottom: -115px;
 }
 
 /*shopee icon logo*/
 img.shopee-icon {
   margin-top: 50px;
-  margin-left: 40px;
+  margin-left: 30px;
   margin-bottom: -5px;
 }
 
@@ -131,7 +131,7 @@ nav ul2 li a {
   border-radius: 7px;
   border-width: 5px;
   float:inline-end;
-  right: 110px;
+  right: 100px;
   top: 54px;
 }
 
@@ -151,7 +151,7 @@ i.fab.fa-instagram{
 i.fas.fa-shopping-cart {
   color: whitesmoke;
   font-size: 24px;
-  margin-right: 60px;
+  margin-right: 40px;
   margin-top: 15px;
   cursor: pointer;
 }
