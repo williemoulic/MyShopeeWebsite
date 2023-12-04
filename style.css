@@ -97,17 +97,19 @@ nav ul2 li a {
   font-size: 14px;
 }
 
-
+/*top navigation form input behavior and settings */
 .container form input:last-of-type{
   margin-top: -10px;
   margin-bottom: 3px;
 }
 
+/*form unordered list setting */
 .container form ul li {
   list-style: none;
   display: inline;
 }
 
+/*form below text lists setting, 1 Peso Polo, 1 Peso Case, etc. */
 .container form ul li a {
   text-decoration: none;
   color: white;
