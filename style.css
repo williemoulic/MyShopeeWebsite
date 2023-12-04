@@ -157,9 +157,9 @@ i.fas.fa-globe{
   align-items: center;
   justify-content: center;
   height: 200px;
-  background-color: orangered;
-  color: #fff;
-  margin-top: 20px;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .banner h2 {
