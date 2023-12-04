@@ -13,7 +13,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 18px;
-  margin: 0px;
+  width: 100%;
   background-color: orangered;
 }
 
