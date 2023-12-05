@@ -22,14 +22,14 @@ header {
   font-size: 34px;
   color: #fff;
   margin-top: 40px;
-  margin-left: 120px;
+  margin-left: 125px;
   margin-bottom: -115px;
 }
 
 /*shopee icon logo*/
 img.shopee-icon {
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 55px;
   margin-bottom: -5px;
 }
 
@@ -203,4 +203,9 @@ i.fas.fa-globe{
   color: #8e9096;
   font-size: 18px;
   margin: 30px;
+}
+
+.bottom-line{
+  border-bottom: 1px solid #8e9096;
+  width: 100%;
 }
