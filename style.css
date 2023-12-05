@@ -209,3 +209,23 @@ i.fas.fa-globe{
   border-bottom: 1px solid #8e9096;
   width: 100%;
 }
+
+.categories h4{
+  color: #8e9096;
+  margin: 30px;
+  font-weight: bold;
+}
+
+.categories h3{
+  color: #8e9096;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.categories p{
+  color: #8e9096;
+  column-count: 5;
+  margin-top: 5px;
+  margin-left: 30px;
+}
